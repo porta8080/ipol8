@@ -1,6 +1,6 @@
 {
   "name": "ipol8",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy way to interpolate strings",
   "main": "index.js",
   "scripts": {
