@@ -1,0 +1,16 @@
+{
+  "name": "ipol8",
+  "version": "1.0.0",
+  "description": "Easy way to interpolate strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "interpolation",
+    "interpolate"
+  ],
+  "author": "Porta8080 <adm.porta8080@gmail.com> (http://blog-porta8080.rhcloud.com/)",
+  "license": "ISC"
+}
